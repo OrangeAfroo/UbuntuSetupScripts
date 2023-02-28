@@ -1,0 +1,12 @@
+<keymap version="1" name="GNOME copy" parent="Default for GNOME">
+  <action id="GotoLine" />
+  <action id="GotoRow" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+    <keyboard-shortcut first-keystroke="ctrl alt #10000d8" />
+  </action>
+  <action id="ShowErrorDescription">
+    <keyboard-shortcut first-keystroke="ctrl f1" />
+    <keyboard-shortcut first-keystroke="ctrl g" />
+  </action>
+</keymap>
